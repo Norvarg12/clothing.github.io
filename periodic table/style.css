@@ -1,0 +1,13 @@
+h3:hover{
+    color: goldenrod
+}
+
+td:hover{
+        background-color: aqua
+    }
+    body{
+        background-color: aqua
+    }
+    h1{
+        font-family: cursive
+    }
